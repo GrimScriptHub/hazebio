@@ -1,0 +1,1 @@
+File upload failed: move_uploaded_file(): Unable to move &quot;C:\xampp\tmp\php6D99.tmp&quot; to &quot;./uploads/9e08b3146aa58e4000dae4c3a3aa43ed.jpg&quot;
